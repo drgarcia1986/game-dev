@@ -1,0 +1,17 @@
+DIRECTION = {
+    UP = 0,
+    DOWN = 1,
+    LEFT = 2,
+    RIGHT = 3
+}
+
+KEY_DOWN_MAP = {
+    w = DIRECTION.UP,
+    s = DIRECTION.DOWN,
+    a = DIRECTION.LEFT,
+    d = DIRECTION.RIGHT,
+}
+
+MAX_ENEMIES = 25
+MAX_SCORE = 250
+AIRPLANE_FIRE_SPEED = 3
